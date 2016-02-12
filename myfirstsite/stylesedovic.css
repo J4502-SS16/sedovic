@@ -61,6 +61,13 @@ a:hover{
 #footbar{
 clear: both;
 display: block;
+margin: 0 0 50px 0;
+float:left;
+}
+
+#footbar li{
+  float: left;
+  width:275px;
 }
 
 #container{
