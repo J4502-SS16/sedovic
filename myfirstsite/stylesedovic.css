@@ -1,0 +1,45 @@
+body{
+  font-family: Arial, Helvetica, Lucida, sans-serif;
+  font-size: 25px;
+  text-align: center;
+  color: grey;
+}
+
+h1{
+  font-size: 100px;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 15px;
+  color: #660066;
+}
+
+li{
+  list-style-type: none;
+}
+
+.p1{
+  font-size: 50px;
+  font-weight: bold;
+  color: #800080
+}
+.photo{
+  width:500px;
+  border-style: none;
+float:left;
+  margin:0 20px 0 0;
+}
+
+#container{
+width:750px
+margin: 0 auto;
+}
+
+#mainbar{
+width: 500px;
+float: left;
+}
+
+#sidebar{
+  width: 200px;
+  float: right;
+}
